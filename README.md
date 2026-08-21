@@ -1,5 +1,8 @@
 # MorphGL
 
+This repository contains the code and scripts for our paper [Efficient GNN Training on Giant Graphs with Collective Batching
+and Scheduling](https://www.vldb.org/pvldb/vol19/p1184-zhang.pdf) published on **PVLDB 2026**.
+
 ## Installation
 
 The experiments are conducted with libraries compiled with CUDA 11.7 and gcc9.3.
